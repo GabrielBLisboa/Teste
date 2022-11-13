@@ -1,4 +1,4 @@
-Passos para far um merge
+Passos para fazer um merge
 
 1. Atualizar (git pull) informações da branch principal do servidor para sua máquina (local)
 2. Gerar uma nova branch a partir da branch principal
