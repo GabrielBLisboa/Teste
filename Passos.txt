@@ -1,0 +1,8 @@
+1. Atualizar (git pull) informações da branch principal do servidor para sua máquina (local)
+2. Gerar uma nova branch a partir da branch principal
+3. Modificar e adicionar novas funcionalidades na nova branch criada
+4. Finalizar o trabalho na branch secundária (ou temporária)
+5. git checkout na branch pinrcipal
+6. git pull
+6. Unir (merge) o código da branch temporária com a branch principal depois de testar
+7. git push na branch principal
